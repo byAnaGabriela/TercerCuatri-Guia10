@@ -1,4 +1,4 @@
-package sieteTest;
+package siete.sieteTest;
 
 public class Main {
     public static void main(String[] args) {

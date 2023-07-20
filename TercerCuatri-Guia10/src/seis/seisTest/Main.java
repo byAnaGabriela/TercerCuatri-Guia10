@@ -1,4 +1,4 @@
-package seisTest;
+package seis.seisTest;
 
 public class Main {
     public static void main(String[] args) {

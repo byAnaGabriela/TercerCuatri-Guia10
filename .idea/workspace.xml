@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c504f393-ffa4-404a-a8c4-117352cfb9ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/uno/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/cincoTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/cinco/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/cuatroTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/cuatro/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/diezTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/diez/diezTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/dosTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/dos/dosTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/nueveTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/nueve/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/ochoTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/ocho/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/onceTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/once/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/seisTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/seis/seisTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/sieteTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/siete/sieteTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/tresTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TercerCuatri-Guia10/src/tres/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TercerCuatri-Guia10/src/unoTest/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Pb7C9hLBVdOYt8PiDMQNRj5i4Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Admin/OneDrive/Documents/GitHub/TercerCuatri-Guia11"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.dos.dosTest.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uno.Main" />
+      <module name="TercerCuatri-Guia10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dos.dosTest.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dos.dosTest.Main" />
+      <module name="TercerCuatri-Guia10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dos.dosTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dos.dosTest.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c504f393-ffa4-404a-a8c4-117352cfb9ed" name="Changes" comment="" />
+      <created>1683713796471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683713796471</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package diezTest;
+package diez.diezTest;
 
 public class Main {
     public static void main(String[] args) {
